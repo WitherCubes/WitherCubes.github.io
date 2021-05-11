@@ -1,0 +1,93 @@
+:root {
+	--black:	 #2e3440;
+
+	--blue-1:	 #5e81ac;
+	--blue-2:	 #81A1C1;
+	--blue-3:	 #88c0d0;
+	--blue-4:	 #8FBCBB;
+	--green:	 #a3be8c;
+	--yellow:	 #ebcb8b;
+	--orange:	 #d08770;
+	--red:		 #bf616a;
+}
+
+
+body {
+	margin: 0;
+	background: var(--black);
+}
+
+a {
+	text-decoration: none;
+	transition: 100ms ease-in;
+}
+.linkstitle:hover {
+	transform: scale(1.05);
+}
+.link:hover {
+	transform: scale(1.02);
+}
+
+
+#root {
+	padding: 5vmax;
+
+	display: grid;
+	grid-template-columns: repeat(4, auto);
+	grid-gap: 5vmax;
+}
+
+.links {
+	display: flex;
+	flex-direction: column;
+
+}
+
+.linkstitle {
+	width: min-content;
+	
+	padding: 1vmax 2vmax;
+	margin: 0 0 2vmax 0;
+	border-radius: 0.75vmax;
+
+	font-size: 3vmax;
+	font-family: "Ubuntu Mono";
+
+	color: var(--black);
+}
+
+.link {
+	margin: 0.5vmax 0;
+
+	font-size: 1.5vmax;
+	font-family: "SF Mono";
+}
+
+
+.\31 > .linkstitle {
+	background: var(--blue-1);
+}
+.\31 > .link {
+	color: var(--blue-3);
+}
+
+.\32 > .linkstitle {
+	background: var(--blue-2);
+}
+.\32 > .link {
+	color: var(--blue-4);
+}
+
+.\33 > .linkstitle {
+	background: var(--green);
+}
+.\33 > .link {
+	color: var(--yellow);
+}
+
+.\34 > .linkstitle {
+	background: var(--red);
+}
+.\34 > .link {
+	color: var(--orange);
+}

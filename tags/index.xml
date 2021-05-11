@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on WitherCubes</title>
+    <link>http://WitherCubes.github.io/tags/</link>
+    <description>Recent content in Tags on WitherCubes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://WitherCubes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>browser</title>
+      <link>http://WitherCubes.github.io/tags/browser/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://WitherCubes.github.io/tags/browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mozilla</title>
+      <link>http://WitherCubes.github.io/tags/mozilla/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://WitherCubes.github.io/tags/mozilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programs</title>
+      <link>http://WitherCubes.github.io/tags/programs/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://WitherCubes.github.io/tags/programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>http://WitherCubes.github.io/tags/software/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://WitherCubes.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>http://WitherCubes.github.io/tags/linux/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://WitherCubes.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
