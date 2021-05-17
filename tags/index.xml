@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on WitherCubes</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://withercubes.github.io/tags/</link>
     <description>Recent content in Tags on WitherCubes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://withercubes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>physics</title>
-      <link>http://localhost:1313/tags/physics/</link>
+      <link>http://withercubes.github.io/tags/physics/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/physics/</guid>
+      <guid>http://withercubes.github.io/tags/physics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>browser</title>
-      <link>http://localhost:1313/tags/browser/</link>
+      <link>http://withercubes.github.io/tags/browser/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/browser/</guid>
+      <guid>http://withercubes.github.io/tags/browser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mozilla</title>
-      <link>http://localhost:1313/tags/mozilla/</link>
+      <link>http://withercubes.github.io/tags/mozilla/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mozilla/</guid>
+      <guid>http://withercubes.github.io/tags/mozilla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programs</title>
-      <link>http://localhost:1313/tags/programs/</link>
+      <link>http://withercubes.github.io/tags/programs/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/programs/</guid>
+      <guid>http://withercubes.github.io/tags/programs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software</title>
-      <link>http://localhost:1313/tags/software/</link>
+      <link>http://withercubes.github.io/tags/software/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/software/</guid>
+      <guid>http://withercubes.github.io/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
+      <link>http://withercubes.github.io/tags/linux/</link>
       <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/linux/</guid>
+      <guid>http://withercubes.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
