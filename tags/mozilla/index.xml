@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mozilla on WitherCubes</title>
-    <link>http://WitherCubes.github.io/tags/mozilla/</link>
+    <link>http://localhost:1313/tags/mozilla/</link>
     <description>Recent content in mozilla on WitherCubes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://WitherCubes.github.io/tags/mozilla/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mozilla/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secure the Firefox Web Browser</title>
-      <link>http://WitherCubes.github.io/posts/secure-firefox/</link>
+      <link>http://localhost:1313/posts/secure-firefox/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://WitherCubes.github.io/posts/secure-firefox/</guid>
+      <guid>http://localhost:1313/posts/secure-firefox/</guid>
       <description>Most Firefox users think that firefox has security and privacy features out of the box. The answer is that it&amp;rsquo;s certainly better compared to other mainstream alternatives (like Microsoft Edge, Google Chrome).
 Why do people trust that Firefox more in terms of security and privacy than Google Chrome? The answer is simple because Firefox is a Free and Open Source Software. This means that anyone can audit the code of firefox and submit bug fixes, exploits to improve firefox and inspect the code if any malicious code is there in the browser.</description>
     </item>

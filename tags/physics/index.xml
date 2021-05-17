@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>physics on WitherCubes</title>
+    <link>http://localhost:1313/tags/physics/</link>
+    <description>Recent content in physics on WitherCubes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Physics - Light</title>
+      <link>http://localhost:1313/posts/physics-light/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/physics-light/</guid>
+      <description>Light     Optics    It&amp;rsquo;s a branch of physics which describes about phenomenon and laws associated with generation and propagation of light, its interaction with the matter called optics.
+Optics are classified into two types
+ Ray Optics Physical Optics  Ray Optics     It treats the propagation of light in terms of rays and is valid if only the wavelength of the light is much smaller than the size of the obstacle.</description>
+    </item>
+    
+  </channel>
+</rss>
