@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>linux on WitherCubes</title>
-    <link>http://withercubes.github.io/tags/linux/</link>
+    <link>https://withercubes.github.io/tags/linux/</link>
     <description>Recent content in linux on WitherCubes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://withercubes.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://withercubes.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Softwate I use</title>
-      <link>http://withercubes.github.io/posts/software-i-use/</link>
+      <link>https://withercubes.github.io/posts/software-i-use/</link>
       <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://withercubes.github.io/posts/software-i-use/</guid>
+      <guid>https://withercubes.github.io/posts/software-i-use/</guid>
       <description>Operating System    I use Arch Linux as my operating system. I was once a Windows 10 user but then hated it after knowing how evil it is. I wish I could use Gentoo as my OS but I have a dumb laptop to compile and I love the AUR.
 Programs    Web Browser    For my web browser I use Brave. It is better than any proprietary alternatives like Google Chrome, Vivaldi, and Microsoft Edge because Brave doesn&amp;rsquo;t collect user data and sell it.</description>
     </item>
