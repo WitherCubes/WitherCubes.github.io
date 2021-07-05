@@ -1,2 +1,0 @@
-#!/bin/sh
-./generatehtml > ../public/newtab.html
